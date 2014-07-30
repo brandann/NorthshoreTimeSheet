@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\NSM-PDC\Company\Public\Northshore Time Sheet\Beta\|\\NSM-PDC\Company\Public\Northshore Time Sheet\Installer\Beta\|P:\Northshore Time Sheet\Installer\Beta\|\\NSM-PDC\Company\Public\Northshore Time Sheet\Installer\|\\NSM-PDC\Company\Public\CADD\Drafting\Northshore Program Tools\TimeSheet\</PublishUrlHistory>
+    <InstallUrlHistory>\\NSM-PDC\Company\Public\Northshore Time Sheet\Installer\|\\NSM-PDC\Company\Public\CADD\Drafting\Northshore Program Tools\TimeSheet\|\\NSM-PDC\Company\Public\CADD\Drafting\Northshore Program Tools\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\NSM-PDC\Company\Public\Northshore Time Sheet\Installer\|\\NSM-PDC\Company\Public\CADD\Drafting\Northshore Program Tools\TimeSheet\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+</Project>

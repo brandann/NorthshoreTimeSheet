@@ -1,0 +1,168 @@
+C:\Users\brandan.NSSM\documents\visual studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.exe
+C:\Users\brandan.NSSM\documents\visual studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.pdb
+C:\Users\brandan.NSSM\documents\visual studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.xml
+C:\Users\brandan.NSSM\documents\visual studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\brandan.NSSM\documents\visual studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Form1.resources
+C:\Users\brandan.NSSM\documents\visual studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Resources.resources
+C:\Users\brandan.NSSM\documents\visual studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\brandan.NSSM\documents\visual studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\brandan.NSSM\documents\visual studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.exe
+C:\Users\brandan.NSSM\documents\visual studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.xml
+C:\Users\brandan.NSSM\documents\visual studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.pdb
+C:\Users\brandan.NSSM\documents\visual studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Form2.resources
+C:\Users\brandan.NSSM\documents\visual studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Form3.resources
+C:\Users\brandan.NSSM\documents\visual studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.AboutBox1.resources
+C:\Users\brandan.NSSM\documents\visual studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Form4.resources
+C:\Users\brandan.NSSM\documents\visual studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.FormReportBug.resources
+C:\Users\brandan.NSSM\documents\visual studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.FormSugestions.resources
+E:\Documents\Programming\Visual Studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.exe
+E:\Documents\Programming\Visual Studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.xml
+E:\Documents\Programming\Visual Studio 2010\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.pdb
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.exe
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.pdb
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.xml
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.AboutBox1.resources
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Form4.resources
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.FormReportBug.resources
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.FormSugestions.resources
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Resources.resources
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.exe
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.xml
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.pdb
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.exe.config
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Timesheet_Main.resources
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Job_Choose.resources
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.User_Account_Setup.resources
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.SaveAs.resources
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.whatsnewform.resources
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.exe.manifest
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.application
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.exe.manifest
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.application
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.ReviewForm.resources
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.logon.resources
+F:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.vbproj.GenerateResource.Cache
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.exe.config
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.exe
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.xml
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.pdb
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.ReviewForm.resources
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.whatsnewform.resources
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Timesheet_Main.resources
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Form4.resources
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.FormReportBug.resources
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.FormSugestions.resources
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Resources.resources
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.exe.manifest
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.application
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.exe
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.pdb
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.xml
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.exe.manifest
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.application
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Form1.resources
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.exe.config
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.exe
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.xml
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.pdb
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.exe.manifest
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.application
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.exe
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.pdb
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.xml
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Form1.resources
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.ReviewForm.resources
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.SplashScreen1.resources
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.whatsnewform.resources
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Timesheet_Main.resources
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.User_Account_Setup.resources
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Form4.resources
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.FormReportBug.resources
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.FormSugestions.resources
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Resources.resources
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.exe.manifest
+E:\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.application
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.exe.config
+E:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.exe
+E:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.xml
+E:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.pdb
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.exe.config
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.exe.manifest
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.application
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.exe
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.pdb
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet.xml
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Form_Math.resources
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.newjobcreatorform.resources
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Form1.resources
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.ReviewForm.resources
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.whatsnewform.resources
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Timesheet_Main.resources
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Form4.resources
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.FormReportBug.resources
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.FormSugestions.resources
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.Resources.resources
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.vbproj.GenerateResource.Cache
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.exe.manifest
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.application
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.exe
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.xml
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.pdb
+F:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.vbproj.ResolveComReference.cache
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.vbproj.ResolveComReference.cache
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet Ultimate.exe.config
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet Ultimate.exe.manifest
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet Ultimate.application
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet Ultimate.exe
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet Ultimate.pdb
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet Ultimate.xml
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.Form_Math.resources
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.Form3.resources
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.newjobcreatorform.resources
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.Form1.resources
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.ReviewForm.resources
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.whatsnewform.resources
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.Timesheet_Main.resources
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.Form4.resources
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.FormReportBug.resources
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.FormSugestions.resources
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.Resources.resources
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet Ultimate.exe.manifest
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet Ultimate.application
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet Ultimate.exe
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet Ultimate.xml
+G:\Programming\Visual Basic\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet Ultimate.pdb
+C:\Users\brandan.NSSM\Desktop\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet Ultimate.exe.config
+C:\Users\brandan.NSSM\Desktop\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.vbproj.ResolveComReference.cache
+C:\Users\brandan.NSSM\Desktop\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet Ultimate.exe
+C:\Users\brandan.NSSM\Desktop\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet Ultimate.xml
+C:\Users\brandan.NSSM\Desktop\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet Ultimate.pdb
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Testing\NorthshoreTimeSheet\NorthshoreTimeSheet\bin\Debug\NorthshoreTimeSheet Ultimate.exe.config
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Testing\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.vbproj.ResolveComReference.cache
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Testing\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet Ultimate.exe
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Testing\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet Ultimate.xml
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Testing\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet Ultimate.pdb
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Testing\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Testing\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.ReviewForm.resources
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Testing\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.Form3.resources
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Testing\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.whatsnewform.resources
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Testing\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.Timesheet_Main.resources
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Testing\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.Form4.resources
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Testing\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.FormReportBug.resources
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Testing\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.FormSugestions.resources
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Testing\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheetUltimate.Resources.resources
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Testing\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Testing\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet.vbproj.ResolveComReference.cache
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet Ultimate.exe
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet Ultimate.xml
+C:\Users\brandan.NSSM\Dropbox\Brandan\Programming\Projects\NorthshoreTimeSheet\NorthshoreTimeSheet\obj\x86\Debug\NorthshoreTimeSheet Ultimate.pdb
